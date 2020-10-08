@@ -1,0 +1,33 @@
+.jumbotron{
+background-color: #1ABDDE;
+color: black;
+
+}
+
+footer {
+
+	padding: 10px 10px 0 10px;
+	background-color: #1ABDDE;
+	margin-bottom: 0px;
+	margin-top: 30px;
+	flex: wrap;
+}
+
+.btn{
+
+	background-color: #C7F79A;
+}
+
+.card-hotel{
+
+	flex: 1 150px;
+	padding: 2px 5px 2px 5px;
+	margin-top: 20px;
+
+
+}
+
+.btn-aceptar{
+
+	width: 100%;
+}
